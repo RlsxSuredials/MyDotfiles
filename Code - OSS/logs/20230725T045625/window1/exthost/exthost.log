@@ -1,0 +1,9 @@
+2023-07-25 04:56:28.656 [info] Extension host with pid 1429 started
+2023-07-25 04:56:28.656 [info] Skipping acquiring lock for /home/rlsxsuredials/.config/Code - OSS/User/workspaceStorage/967db1597221667d4a2be948bd22635f.
+2023-07-25 04:56:28.702 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-07-25 04:56:28.710 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-25 04:56:28.720 [info] Eager extensions activated
+2023-07-25 04:56:28.723 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-25 04:56:28.730 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-25 04:56:56.334 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-07-25 05:03:10.858 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
