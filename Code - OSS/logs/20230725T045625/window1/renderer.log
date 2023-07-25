@@ -1,9 +1,0 @@
-2023-07-25 04:56:30.827 [info] [perf] Render performance baseline is 34ms
-2023-07-25 05:23:31.919 [error] Unable to read file '/home/rlsxsuredials/Projects/PhishBuster/VALID_PROXY.txt' (Error: File not modified since): Error: Unable to read file '/home/rlsxsuredials/Projects/PhishBuster/VALID_PROXY.txt' (Error: File not modified since)
-    at e.FileService.w (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:624:18034)
-    at e.FileService.v (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:624:17865)
-    at async e.NativeTextFileService.H (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2310:40500)
-    at async e.NativeTextFileService.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2310:40195)
-    at async js.Ab (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2299:35191)
-    at async js.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2299:33576)
-    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2310:36218

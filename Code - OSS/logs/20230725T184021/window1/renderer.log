@@ -1,5 +1,0 @@
-2023-07-25 18:40:27.217 [info] [perf] Render performance baseline is 30ms
-2023-07-25 18:40:34.541 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
-2023-07-25 18:40:39.690 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/rlsxsuredials/Projects/PhishBuster/VALID_PROXY.txt 
-2023-07-25 18:40:43.368 [info] [perf] Render performance baseline is 48ms
-2023-07-25 19:31:00.702 [info] [perf] Render performance baseline is 37ms

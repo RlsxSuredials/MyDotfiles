@@ -27,5 +27,7 @@ Las configuraciones abarcan diversas herramientas y aplicaciones, cada una metic
 Esta configuración utiliza las siguientes fuentes:
 
 - Inconsolata
+- Terminus
+- Scientifica
 - Hack Nerd Fonts
 - Hack Nerd Symbols
