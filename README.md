@@ -1,4 +1,4 @@
-# RLSXSUREDIALS - NORD THEME
+# RLSXSUREDIALS DOTFILES - NORD THEME
 
 ¡Bienvenido al repositorio de mis dotfiles!
 
